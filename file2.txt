@@ -1,2 +1,3 @@
 this is file 2
 second comment
+added another comment to file 2
